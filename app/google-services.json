@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "1075869608254",
+    "firebase_url": "https://fir-tutorials-837f1.firebaseio.com",
+    "project_id": "fir-tutorials-837f1",
+    "storage_bucket": "fir-tutorials-837f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075869608254:android:6eda66cacae743025ee46f",
+        "android_client_info": {
+          "package_name": "com.androiddevs.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075869608254-g1lrg7jqjd9tfu75mjnp44c26dj56957.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddevs.firebase",
+            "certificate_hash": "8365ea46f4a5ea05f8bdcc5b6bc38ed2ebfa1392"
+          }
+        },
+        {
+          "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZDov-wnx7fJREgTIhzSfY125CfpgGvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075869608254:android:c22572e9b9f9191c5ee46f",
+        "android_client_info": {
+          "package_name": "com.androiddevs.firebasepasswordchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075869608254-lih6ntt7sim3akm69b10hci07s25ddlg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddevs.firebasepasswordchange",
+            "certificate_hash": "8365ea46f4a5ea05f8bdcc5b6bc38ed2ebfa1392"
+          }
+        },
+        {
+          "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZDov-wnx7fJREgTIhzSfY125CfpgGvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075869608254:android:32bc7480dc77f06a5ee46f",
+        "android_client_info": {
+          "package_name": "com.androiddevs.firebasephoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075869608254-g9ofh7ochfmndcdqqo40ejd1kpkrfse3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddevs.firebasephoneauthentication",
+            "certificate_hash": "8365ea46f4a5ea05f8bdcc5b6bc38ed2ebfa1392"
+          }
+        },
+        {
+          "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZDov-wnx7fJREgTIhzSfY125CfpgGvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075869608254:android:3767956658d63b3f5ee46f",
+        "android_client_info": {
+          "package_name": "com.androiddevs.firebasestoragerecyclerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075869608254-15hh92d7fi127d6n5k5s0tpk42j6ni3l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddevs.firebasestoragerecyclerview",
+            "certificate_hash": "8365ea46f4a5ea05f8bdcc5b6bc38ed2ebfa1392"
+          }
+        },
+        {
+          "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZDov-wnx7fJREgTIhzSfY125CfpgGvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075869608254:android:bf9d7fe53e4ae05f5ee46f",
+        "android_client_info": {
+          "package_name": "com.androiddevs.firebasestoragerecyclerviewjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075869608254-m9tsn13vjrfks6j0ll09ck7su9rcs9ca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androiddevs.firebasestoragerecyclerviewjava",
+            "certificate_hash": "8365ea46f4a5ea05f8bdcc5b6bc38ed2ebfa1392"
+          }
+        },
+        {
+          "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZDov-wnx7fJREgTIhzSfY125CfpgGvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075869608254-95c4spkvokrdibv9pbmdk8g6hk8pqf60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
